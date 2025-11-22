@@ -1,0 +1,2393 @@
+﻿# ru Russian translation.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"POT-Creation-Date: 2025-11-22 17:09\n"
+"PO-Revision-Date: 2025-11-22 17:09\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key:	0000000000
+msgctxt "ST_TextsToLocalize,0000000000"
+msgid "+5s Round Time"
+msgstr "+5 c к времени раунда"
+
+#. Key:	0000000001
+msgctxt "ST_TextsToLocalize,0000000001"
+msgid "Unlocks the next shop tier"
+msgstr "Открывает следующий уровень магазина"
+
+#. Key:	0000000002
+msgctxt "ST_TextsToLocalize,0000000002"
+msgid "+20% Upgrade Costs"
+msgstr "+20% к стоимости улучшений"
+
+#. Key:	0000000003
+msgctxt "ST_TextsToLocalize,0000000003"
+msgid "Keep Going"
+msgstr "Продолжить"
+
+#. Key:	0000000004
+msgctxt "ST_TextsToLocalize,0000000004"
+msgid "Return Home"
+msgstr "Вернуться домой"
+
+#. Key:	0000000005
+msgctxt "ST_TextsToLocalize,0000000005"
+msgid "Leave the current run and save all new items"
+msgstr "Покинуть текущий забег и сохранить все новые предметы"
+
+#. Key:	0000000006
+msgctxt "ST_TextsToLocalize,0000000006"
+msgid "Fight the Final Boss"
+msgstr "Сразиться с финальным боссом"
+
+#. Key:	0000000007
+msgctxt "ST_TextsToLocalize,0000000007"
+msgid "Finish your Last Raid"
+msgstr "Завершить последний рейд"
+
+#. Key:	0000000008
+msgctxt "ST_TextsToLocalize,0000000008"
+msgid "+{NonScalingInt0} Arrows"
+msgstr "+{NonScalingInt0} стрел"
+
+#. Key:	0000000009
+msgctxt "ST_TextsToLocalize,0000000009"
+msgid "+{ScalingFloat0}% Arrow Speed "
+msgstr "+{ScalingFloat0}% к скорости стрел"
+
+#. Key:	0000000010
+msgctxt "ST_TextsToLocalize,0000000010"
+msgid "+{ScalingFloat0}% Blast Area"
+msgstr "+{ScalingFloat0}% к области взрыва"
+
+#. Key:	0000000011
+msgctxt "ST_TextsToLocalize,0000000011"
+msgid "+{ScalingFloat0}% Damage"
+msgstr "+{ScalingFloat0}% к урону"
+
+#. Key:	0000000012
+msgctxt "ST_TextsToLocalize,0000000012"
+msgid "+{ScalingFloat0}% Life"
+msgstr "+{ScalingFloat0}% к здоровью"
+
+#. Key:	0000000013
+msgctxt "ST_TextsToLocalize,0000000013"
+msgid "+{ScalingFloat0}% Movement Speed"
+msgstr "+{ScalingFloat0}% к скорости передвижения"
+
+#. Key:	0000000014
+msgctxt "ST_TextsToLocalize,0000000014"
+msgid "+{ScalingFloat0}% Spawns"
+msgstr "+{ScalingFloat0}% к числу появлений врагов"
+
+#. Key:	0000000015
+msgctxt "ST_TextsToLocalize,0000000015"
+msgid "+{ScalingFloat0}s Round Time"
+msgstr "+{ScalingFloat0} c к времени раунда"
+
+#. Key:	0000000016
+msgctxt "ST_TextsToLocalize,0000000016"
+msgid "+{ScalingInt0} Rats in Cage"
+msgstr "+{ScalingInt0} крыс в клетке"
+
+#. Key:	0000000017
+msgctxt "ST_TextsToLocalize,0000000017"
+msgid "+{Value} Coins"
+msgstr "+{Value} монет"
+
+#. Key:	0000000018
+msgctxt "ST_TextsToLocalize,0000000018"
+msgid "150% Damage against stunned enemies"
+msgstr "150% урона по оглушенным врагам"
+
+#. Key:	0000000019
+msgctxt "ST_TextsToLocalize,0000000019"
+msgid "Absorb incoming damage until the wall shatters"
+msgstr "Поглощает входящий урон, пока стена не разрушится"
+
+#. Key:	0000000020
+msgctxt "ST_TextsToLocalize,0000000020"
+msgid "Absorption Increase"
+msgstr "Увеличение поглощения"
+
+#. Key:	0000000021
+msgctxt "ST_TextsToLocalize,0000000021"
+msgid "Absorption Multiplier"
+msgstr "Множитель поглощения"
+
+#. Key:	0000000022
+msgctxt "ST_TextsToLocalize,0000000022"
+msgid "Additional Boss at next Level\r\nUnlocks the next item tier"
+msgstr "Дополнительный босс на следующем уровне\r\nОткрывает следующий уровень предметов"
+
+#. Key:	0000000023
+msgctxt "ST_TextsToLocalize,0000000023"
+msgid "Adjusts the volume of everything."
+msgstr "Регулирует общий уровень громкости."
+
+#. Key:	0000000024
+msgctxt "ST_TextsToLocalize,0000000024"
+msgid "Adjusts the volume of music."
+msgstr "Регулирует громкость музыки."
+
+#. Key:	0000000025
+msgctxt "ST_TextsToLocalize,0000000025"
+msgid "Adjusts the volume of sound effects."
+msgstr "Регулирует громкость звуковых эффектов."
+
+#. Key:	0000000026
+msgctxt "ST_TextsToLocalize,0000000026"
+msgid "Affects channeling Abilities, damage over time and crowd control effects like stuns and knockbacks"
+msgstr "Влияет на направляемые умения, урон со временем и эффекты контроля, такие как оглушение и отбрасывание"
+
+#. Key:	0000000027
+msgctxt "ST_TextsToLocalize,0000000027"
+msgid "Alchemist"
+msgstr "Алхимик"
+
+#. Key:	0000000028
+msgctxt "ST_TextsToLocalize,0000000028"
+msgid "Alchemist Boots"
+msgstr "Сапоги алхимика"
+
+#. Key:	0000000029
+msgctxt "ST_TextsToLocalize,0000000029"
+msgid "Alchemist Cap"
+msgstr "Колпак алхимика"
+
+#. Key:	0000000030
+msgctxt "ST_TextsToLocalize,0000000030"
+msgid "Alchemist Gloves"
+msgstr "Перчатки алхимика"
+
+#. Key:	0000000031
+msgctxt "ST_TextsToLocalize,0000000031"
+msgid "Alchemist Greaves"
+msgstr "Наголенники алхимика"
+
+#. Key:	0000000032
+msgctxt "ST_TextsToLocalize,0000000032"
+msgid "Alchemist Ignition Stone"
+msgstr "Камень воспламенения алхимика"
+
+#. Key:	0000000033
+msgctxt "ST_TextsToLocalize,0000000033"
+msgid "Alchemist Vestment"
+msgstr "Одеяние алхимика"
+
+#. Key:	0000000034
+msgctxt "ST_TextsToLocalize,0000000034"
+msgid "Angle"
+msgstr "Угол"
+
+#. Key:	0000000035
+msgctxt "ST_TextsToLocalize,0000000035"
+msgid "Apply"
+msgstr "Применить"
+
+#. Key:	0000000036
+msgctxt "ST_TextsToLocalize,0000000036"
+msgid "Arcane Surge"
+msgstr "Чародейский всплеск"
+
+#. Key:	0000000037
+msgctxt "ST_TextsToLocalize,0000000037"
+msgid "Archer Upgrade"
+msgstr "Улучшение лучника"
+
+#. Key:	0000000038
+msgctxt "ST_TextsToLocalize,0000000038"
+msgid "Area"
+msgstr "Область"
+
+#. Key:	0000000039
+msgctxt "ST_TextsToLocalize,0000000039"
+msgid "Area Cleared"
+msgstr "Область очищена"
+
+#. Key:	0000000040
+msgctxt "ST_TextsToLocalize,0000000040"
+msgid "Area Increase"
+msgstr "Увеличение области"
+
+#. Key:	0000000041
+msgctxt "ST_TextsToLocalize,0000000041"
+msgid "Audio"
+msgstr "Аудио"
+
+#. Key:	0000000042
+msgctxt "ST_TextsToLocalize,0000000042"
+msgid "Back"
+msgstr "Назад"
+
+#. Key:	0000000043
+msgctxt "ST_TextsToLocalize,0000000043"
+msgid "Blast now heals enemies instead of damaging them"
+msgstr "Взрыв теперь лечит врагов вместо того, чтобы наносить им урон"
+
+#. Key:	0000000044
+msgctxt "ST_TextsToLocalize,0000000044"
+msgid "Blood Amulet"
+msgstr "Кровавый амулет"
+
+#. Key:	0000000045
+msgctxt "ST_TextsToLocalize,0000000045"
+msgid "Bomb Damage increases by 100% but they now also hit yourself"
+msgstr "Урон бомб увеличен на 100%, но они также задевают и вас"
+
+#. Key:	0000000046
+msgctxt "ST_TextsToLocalize,0000000046"
+msgid "Bombs"
+msgstr "Бомбы"
+
+#. Key:	0000000047
+msgctxt "ST_TextsToLocalize,0000000047"
+msgid "Bombs stun enemies for 3 seconds"
+msgstr "Бомбы оглушают врагов на 3 секунды"
+
+#. Key:	0000000048
+msgctxt "ST_TextsToLocalize,0000000048"
+msgid "Boss at Level 20\r\n+5s Round Time at Levels 6/ 11/ 16\r\n\r\n+10% Enemy Life per Level\r\n+10% Enemy Damage per Level\r\n\r\n+50% Enemy Spawns\r\n+50% Enemy Base Life\r\n+50% Enemy Base Damage"
+msgstr "Босс на уровне 20\r\n+5 c к времени раунда на уровнях 6/ 11/ 16\r\n\r\n+10% здоровья врагов за уровень\r\n+10% урона врагов за уровень\r\n\r\n+50% появления врагов\r\n+50% базового здоровья врагов\r\n+50% базового урона врагов"
+
+#. Key:	0000000049
+msgctxt "ST_TextsToLocalize,0000000049"
+msgid "Boss at Level 20\r\n+5s Round Time at Levels 6/ 11/ 16\r\n\r\n+5% Enemy Life per Level\r\n+5% Enemy Damage per Level"
+msgstr "Босс на уровне 20\r\n+5 c к времени раунда на уровнях 6/ 11/ 16\r\n\r\n+5% здоровья врагов за уровень\r\n+5% урона врагов за уровень"
+
+#. Key:	0000000050
+msgctxt "ST_TextsToLocalize,0000000050"
+msgid "Boss at Level 20\r\nFinal Boss at Level 21\r\n+5s Round Time at Levels 6/ 11/ 16\r\n+20% Upgrade Costs at Level 6/ 11/ 16\r\n\r\n+10% Enemy Life per Level\r\n+10% Enemy Damage per Level\r\n\r\n+100% Enemy Spawns\r\n+100% Enemy Base Life\r\n+100% Enemy Base Damage"
+msgstr "Босс на уровне 20\r\nФинальный босс на уровне 21\r\n+5 c к времени раунда на уровнях 6/ 11/ 16\r\n+20% стоимости улучшений на уровнях 6/ 11/ 16\r\n\r\n+10% здоровья врагов за уровень\r\n+10% урона врагов за уровень\r\n\r\n+100% появления врагов\r\n+100% базового здоровья врагов\r\n+100% базового урона врагов"
+
+#. Key:	0000000051
+msgctxt "ST_TextsToLocalize,0000000051"
+msgid "Bosses at Level 5/ 10/ 15/ 20\r\nFinal Boss at Level 21\r\n+5s Round Time at Levels 6/ 11/ 16\r\n+20% Upgrade Costs at Level 6/ 11/ 16\r\n\r\n+10% Enemy Life per Level\r\n+10% Enemy Damage per Level\r\n\r\n+100% Enemy Spawns\r\n+100% Enemy Base Life\r\n+100% Enemy Base Damage\r\n\r\nNo chest rewards between Levels"
+msgstr "Боссы на уровнях 5/ 10/ 15/ 20\r\nФинальный босс на уровне 21\r\n+5 c к времени раунда на уровнях 6/ 11/ 16\r\n+20% стоимости улучшений на уровнях 6/ 11/ 16\r\n\r\n+10% здоровья врагов за уровень\r\n+10% урона врагов за уровень\r\n\r\n+100% появления врагов\r\n+100% базового здоровья врагов\r\n+100% базового урона врагов\r\n\r\nНет наград из сундуков между уровнями"
+
+#. Key:	0000000052
+msgctxt "ST_TextsToLocalize,0000000052"
+msgid "Briarthorn"
+msgstr "Терношип"
+
+#. Key:	0000000053
+msgctxt "ST_TextsToLocalize,0000000053"
+msgid "Briarthorn Boots"
+msgstr "Сапоги Терношипа"
+
+#. Key:	0000000054
+msgctxt "ST_TextsToLocalize,0000000054"
+msgid "Briarthorn Gloves"
+msgstr "Перчатки Терношипа"
+
+#. Key:	0000000055
+msgctxt "ST_TextsToLocalize,0000000055"
+msgid "Briarthorn Hood"
+msgstr "Капюшон Терношипа"
+
+#. Key:	0000000056
+msgctxt "ST_TextsToLocalize,0000000056"
+msgid "Briarthorn Leggings"
+msgstr "Поножи Терношипа"
+
+#. Key:	0000000057
+msgctxt "ST_TextsToLocalize,0000000057"
+msgid "Briarthorn Shield"
+msgstr "Щит Терношипа"
+
+#. Key:	0000000058
+msgctxt "ST_TextsToLocalize,0000000058"
+msgid "Briarthorn Tunic"
+msgstr "Туника Терношипа"
+
+#. Key:	0000000059
+msgctxt "ST_TextsToLocalize,0000000059"
+msgid "Brute Upgrade"
+msgstr "Улучшение громилы"
+
+#. Key:	0000000060
+msgctxt "ST_TextsToLocalize,0000000060"
+msgid "200% Damage against stunned enemies"
+msgstr "200% урона по оглушенным врагам"
+
+#. Key:	0000000061
+msgctxt "ST_TextsToLocalize,0000000061"
+msgid "But Enemies and their Projectiles move 20% faster next round"
+msgstr "Но враги и их снаряды будут двигаться на 20% быстрее в следующем раунде"
+
+#. Key:	0000000062
+msgctxt "ST_TextsToLocalize,0000000062"
+msgid "But Enemies deal 30% more Damage next round"
+msgstr "Но враги будут наносить на 30% больше урона в следующем раунде"
+
+#. Key:	0000000063
+msgctxt "ST_TextsToLocalize,0000000063"
+msgid "But Enemies have 15% more Life next round"
+msgstr "Но у врагов будет на 15% больше здоровья в следующем раунде"
+
+#. Key:	0000000064
+msgctxt "ST_TextsToLocalize,0000000064"
+msgid "But you can't use 1 random Ability next round"
+msgstr "Но в следующем раунде вы не сможете использовать одну случайную способность"
+
+#. Key:	0000000065
+msgctxt "ST_TextsToLocalize,0000000065"
+msgid "But you can't use Dash next round"
+msgstr "Но в следующем раунде вы не сможете использовать рывок"
+
+#. Key:	0000000066
+msgctxt "ST_TextsToLocalize,0000000066"
+msgid "But you can't use Life Potions next round"
+msgstr "Но в следующем раунде вы не сможете использовать зелья здоровья"
+
+#. Key:	0000000067
+msgctxt "ST_TextsToLocalize,0000000067"
+msgid "But you deal 15% less Damage next round"
+msgstr "Но в следующем раунде вы будете наносить на 15% меньше урона"
+
+#. Key:	0000000068
+msgctxt "ST_TextsToLocalize,0000000068"
+msgid "But you have 50% less Life next round"
+msgstr "Но в следующем раунде у вас будет на 50% меньше здоровья"
+
+#. Key:	0000000069
+msgctxt "ST_TextsToLocalize,0000000069"
+msgid "But you move 20% slower next round"
+msgstr "Но в следующем раунде вы будете двигаться на 20% медленнее"
+
+#. Key: 0000000070
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000070"
+msgid "But your Area is 15% smaller next round"
+msgstr "Но в следующем раунде ваша область действия будет на 15% меньше"
+
+#. Key: 0000000071
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000071"
+msgid "But your Cooldown Reduction is reduced by 15% next round"
+msgstr "Но в следующем раунде ваше снижение перезарядки будет на 15% меньше"
+
+#. Key: 0000000072
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000072"
+msgid "Cancel"
+msgstr "Отмена"
+
+#. Key: 0000000073
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000073"
+msgid "Cancel Changes"
+msgstr "Отменить изменения"
+
+#. Key: 0000000074
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000074"
+msgid "Cast three Lightning Strikes at the same time"
+msgstr "Наносит три удара молнии одновременно"
+
+#. Key: 0000000075
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000075"
+msgid "Cast two Lightning Strikes at the same time"
+msgstr "Наносит два удара молнии одновременно"
+
+#. Key: 0000000076
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000076"
+msgid "Chain Lightning"
+msgstr "Цепная молния"
+
+#. Key: 0000000077
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000077"
+msgid "Change File"
+msgstr "Сменить файл"
+
+#. Key: 0000000078
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000078"
+msgid "Channeling Abilities deal 20% more Damage for each consecutive hit"
+msgstr "Направляемые умения наносят на 20% больше урона за каждый последовательный удар"
+
+#. Key: 0000000079
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000079"
+msgid "Channeling Abilities deal 40% more Damage for each consecutive hit"
+msgstr "Направляемые умения наносят на 40% больше урона за каждый последовательный удар"
+
+#. Key: 0000000080
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000080"
+msgid "Chest"
+msgstr "Сундук"
+
+#. Key: 0000000081
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000081"
+msgid "Choose"
+msgstr "Выбрать"
+
+#. Key: 0000000082
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000082"
+msgid "Choose One Reward"
+msgstr "Выберите одну награду"
+
+#. Key: 0000000083
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000083"
+msgid "Close"
+msgstr "Закрыть"
+
+#. Key: 0000000084
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000084"
+msgid "Cloth Boots"
+msgstr "Тканевые сапоги"
+
+#. Key: 0000000085
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000085"
+msgid "Cloth Cowl"
+msgstr "Тканевый капюшон"
+
+#. Key: 0000000086
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000086"
+msgid "Cloth Gloves"
+msgstr "Тканевые перчатки"
+
+#. Key: 0000000087
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000087"
+msgid "Cloth Pants"
+msgstr "Тканевые штаны"
+
+#. Key: 0000000088
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000088"
+msgid "Cloth Robe"
+msgstr "Тканевая мантия"
+
+#. Key: 0000000089
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000089"
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#. Key: 0000000090
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000090"
+msgid "Cooldown"
+msgstr "Перезарядка"
+
+#. Key: 0000000091
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000091"
+msgid "Cooldown Reduction"
+msgstr "Снижение перезарядки"
+
+#. Key: 0000000092
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000092"
+msgid "Cooldown Reduction decreases the recharge time of your abilities.\r\n\r\nMaxes out at 80% - anything extra won’t count!"
+msgstr "Снижение перезарядки уменьшает время восстановления ваших умений.\r\n\r\nМаксимум 80% - все, что выше, не засчитывается!"
+
+#. Key: 0000000093
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000093"
+msgid "Could be better"
+msgstr "Могло бы быть и лучше"
+
+#. Key: 0000000094
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000094"
+msgid "Create"
+msgstr "Создать"
+
+#. Key: 0000000095
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000095"
+msgid "Crit Chance"
+msgstr "Шанс критического удара"
+
+#. Key: 0000000096
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000096"
+msgid "Crit Damage"
+msgstr "Критический урон"
+
+#. Key: 0000000097
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000097"
+msgid "Crusader"
+msgstr "Крестоносец"
+
+#. Key: 0000000098
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000098"
+msgid "Crusader Chestguard"
+msgstr "Нагрудник крестоносца"
+
+#. Key: 0000000099
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000099"
+msgid "Crusader Gauntlets"
+msgstr "Рукавицы крестоносца"
+
+#. Key: 0000000100
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000100"
+msgid "Crusader Helmet"
+msgstr "Шлем крестоносца"
+
+#. Key: 0000000101
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000101"
+msgid "Crusader Legguards"
+msgstr "Поножи крестоносца"
+
+#. Key: 0000000102
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000102"
+msgid "Crusader Sabatons"
+msgstr "Башмаки крестоносца"
+
+#. Key: 0000000103
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000103"
+msgid "Cursed Tome"
+msgstr "Проклятый фолиант"
+
+#. Key: 0000000104
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000104"
+msgid "Damage"
+msgstr "Урон"
+
+#. Key: 0000000105
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000105"
+msgid "Damage Dealt"
+msgstr "Нанесенный урон"
+
+#. Key: 0000000106
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000106"
+msgid "Damage Multiplier"
+msgstr "Множитель урона"
+
+#. Key: 0000000107
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000107"
+msgid "Damage Prevented"
+msgstr "Предотвращенный урон"
+
+#. Key: 0000000108
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000108"
+msgid "Damage Reduction"
+msgstr "Снижение урона"
+
+#. Key: 0000000109
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000109"
+msgid "Damage Reduction: {Value}"
+msgstr "Снижение урона: {Value}"
+
+#. Key: 0000000110
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000110"
+msgid "Damage Tick"
+msgstr "Интервал урона"
+
+#. Key: 0000000111
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000111"
+msgid "Damage and knock back enemies in front of you"
+msgstr "Наносит урон и отбрасывает врагов перед вами"
+
+#. Key: 0000000112
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000112"
+msgid "Damage and stun enemies in front of you"
+msgstr "Наносит урон и оглушает врагов перед вами"
+
+#. Key: 0000000113
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000113"
+msgid "Dash"
+msgstr "Рывок"
+
+#. Key: 0000000114
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000114"
+msgid "Death's Embrace"
+msgstr "Объятия смерти"
+
+#. Key: 0000000115
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000115"
+msgid "Debuff Duration"
+msgstr "Длительность ослабления"
+
+#. Key: 0000000116
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000116"
+msgid "Determines your health pool. The higher it is, the more damage you can take before going down."
+msgstr "Определяет запас здоровья. Чем выше показатель, тем больше урона вы можете выдержать."
+
+#. Key: 0000000117
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000117"
+msgid "Disable Delete Mode"
+msgstr "Отключить режим удаления"
+
+#. Key: 0000000118
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000118"
+msgid "Display Resolution determines the size of the window in Windowed mode. In Fullscreen mode, Display Resolution determines the graphics card output resolution, which can result in black bars depending on the monitor and graphics card. Display Resolution is inactive in Windowed Fullscreen mode."
+msgstr "Разрешение экрана определяет размер окна в оконном режиме. В полноэкранном режиме оно задает выходное разрешение видеокарты, что в зависимости от монитора и видеокарты может приводить к появлению черных полос. В режиме оконного полноэкрана параметр разрешения экрана не используется."
+
+#. Key: 0000000119
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000119"
+msgid "Dodge"
+msgstr "Уклонение"
+
+#. Key: 0000000120
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000120"
+msgid "Dodge Chance"
+msgstr "Шанс уклонения"
+
+#. Key: 0000000121
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000121"
+msgid "Dodge: {Value}"
+msgstr "Уклонение: {Value}"
+
+#. Key: 0000000122
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000122"
+msgid "Doom Surge"
+msgstr "Волна погибели"
+
+#. Key: 0000000123
+#. SourceLocation: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000123"
+msgid "Doubles Damage on impact"
+msgstr "При попадании удваивает урон"
+
+#. Key:	0000000124
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000124"
+msgid "Duration"
+msgstr "Длительность"
+
+#. Key:	0000000125
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000125"
+msgid "Each ability uses this stat as a base value for damage. Then, its unique multiplier is applied.\r\n\r\nAbility Damage = Damage × Damage Multiplier"
+msgstr "Каждое умение использует этот параметр как базовое значение урона. Затем применяется его уникальный множитель.\r\n\r\nУрон умения = Урон × Множитель урона"
+
+#. Key:	0000000126
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000126"
+msgid "Empty"
+msgstr "Пусто"
+
+#. Key:	0000000127
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000127"
+msgid "Enter Delete Mode"
+msgstr "Войти в режим удаления"
+
+#. Key:	0000000128
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000128"
+msgid "Enabling Vertical Sync eliminates screen tearing by always rendering and presenting a full frame. Disabling Vertical Sync can give higher frame rate and better input response, but can result in horizontal screen tearing."
+msgstr "Включение вертикальной синхронизации устраняет разрывы изображения, так как всегда выводится полностью отрисованный кадр. Отключение вертикальной синхронизации может дать более высокий FPS и лучшую отзывчивость управления, но способно вызвать горизонтальные разрывы изображения."
+
+#. Key:	0000000129
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000129"
+msgid "Enemy Upgrade"
+msgstr "Усиление врагов"
+
+#. Key:	0000000130
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000130"
+msgid "Enable Delete Mode"
+msgstr "Включить режим удаления"
+
+#. Key:	0000000131
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000131"
+msgid "Epic"
+msgstr "Эпический"
+
+#. Key:	0000000132
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000132"
+msgid "Every time damage is calculated, there’s a chance to land a critical hit, dealing extra damage. Anything can crit!"
+msgstr "Каждый раз, когда рассчитывается урон, есть шанс нанести критический удар с дополнительным уроном. Критовать может всё!"
+
+#. Key:	0000000133
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000133"
+msgid "Exhale a cone of necrotic energy, damaging enemies in its path"
+msgstr "Испускает конус некротической энергии, наносящий урон врагам на своём пути"
+
+#. Key:	0000000134
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000134"
+msgid "Falchion"
+msgstr "Фальшион"
+
+#. Key:	0000000135
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000135"
+msgid "Feet"
+msgstr "Ступни"
+
+#. Key:	0000000136
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000136"
+msgid "File 1"
+msgstr "Файл 1"
+
+#. Key:	0000000137
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000137"
+msgid "File 2"
+msgstr "Файл 2"
+
+#. Key:	0000000138
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000138"
+msgid "File 3"
+msgstr "Файл 3"
+
+#. Key:	0000000139
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000139"
+msgid "Finger"
+msgstr "Палец"
+
+#. Key:	0000000140
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000140"
+msgid "File 4"
+msgstr "Файл 4"
+
+#. Key:	0000000141
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000141"
+msgid "Focus Loop"
+msgstr "Кольцо сосредоточения"
+
+#. Key:	0000000142
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000142"
+msgid "Frame Rate Limit"
+msgstr "Ограничение кадров в секунду"
+
+#. Key:	0000000143
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000143"
+msgid "Frame Rate Limit sets the highest frame rate that is allowed. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable \"Vertical Sync\" to reach high frame rates."
+msgstr "Ограничение кадров в секунду задаёт максимально допустимый FPS. Установите ниже для более стабильной частоты кадров или выше — для лучшего опыта на мощных системах. Чтобы достичь очень высокого FPS, может понадобиться отключить «Вертикальную синхронизацию»."
+
+#. Key:	0000000144
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000144"
+msgid "Fullscreen"
+msgstr "Полный экран"
+
+#. Key:	0000000145
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000145"
+msgid "Fusion Beam"
+msgstr "Луч синтеза"
+
+#. Key:	0000000146
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000146"
+msgid "Gamepad"
+msgstr "Геймпад"
+
+#. Key:	0000000147
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000147"
+msgid "Gather more coins to find greater rewards!"
+msgstr "Собирайте больше монет, чтобы находить более ценные награды!"
+
+#. Key:	0000000148
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000148"
+msgid "Go Again"
+msgstr "Играть ещё раз"
+
+#. Key:	0000000150
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000150"
+msgid "Greed"
+msgstr "Жадность"
+
+#. Key:	0000000151
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000151"
+msgid "Hands"
+msgstr "Руки"
+
+#. Key:	0000000152
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000152"
+msgid "Harbinger"
+msgstr "Предвестник"
+
+#. Key:	0000000153
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000153"
+msgid "Harbinger Gloves"
+msgstr "Перчатки Предвестника"
+
+#. Key:	0000000154
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000154"
+msgid "Harbinger Hood"
+msgstr "Капюшон Предвестника"
+
+#. Key:	0000000155
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000155"
+msgid "Harbinger Pendant"
+msgstr "Подвеска Предвестника"
+
+#. Key:	0000000156
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000156"
+msgid "Harbinger Signet"
+msgstr "Перстень Предвестника"
+
+#. Key:	0000000157
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000157"
+msgid "Harbinger Trinket"
+msgstr "Талисман Предвестника"
+
+#. Key:	0000000158
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000158"
+msgid "Head"
+msgstr "Голова"
+
+#. Key:	0000000159
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000159"
+msgid "Heal your wounds and instantly regain a portion of your Life"
+msgstr "Залечите раны и мгновенно восстановите часть здоровья"
+
+#. Key:	0000000160
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000160"
+msgid "Healing Received"
+msgstr "Полученное лечение"
+
+#. Key:	0000000161
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000161"
+msgid "Heroic"
+msgstr "Героический"
+
+#. Key:	0000000162
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000162"
+msgid "Hide Info"
+msgstr "Скрыть информацию"
+
+#. Key:	0000000163
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000163"
+msgid "High"
+msgstr "Высокое"
+
+#. Key:	0000000164
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000164"
+msgid "Hits up to 16 targets "
+msgstr "Поражает до 16 целей"
+
+#. Key:	0000000165
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000165"
+msgid "Hits up to 8 targets "
+msgstr "Поражает до 8 целей"
+
+#. Key:	0000000166
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000166"
+msgid "Hold"
+msgstr "Удерживать"
+
+#. Key:	0000000167
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000167"
+msgid "Hold to Delete"
+msgstr "Удерживайте для удаления"
+
+#. Key:	0000000168
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000168"
+msgid "If you land a critical hit, this determines the extra damage dealt.\r\n\r\nAbility Damage = Damage × Damage Multiplier\r\nTotal Crit Damage = Ability Damage × Crit Damage × 0.01"
+msgstr "Если вы наносите критический удар, этот параметр определяет дополнительный урон.\r\n\r\nУрон умения = Урон × Множитель урона\r\nСуммарный критический урон = Урон умения × Критический урон × 0,01"
+
+#. Key:	0000000169
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000169"
+msgid "Immune"
+msgstr "Иммунитет"
+
+#. Key:	0000000170
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000170"
+msgid "In Windowed mode you can interact with other windows more easily, and drag edges of the window to set the size. In Windowed Fullscreen mode you can easily switch between applications. In Fullscreen mode you cannot interact with other windows as easily, but the game will run slightly faster."
+msgstr "В оконном режиме вы можете легче взаимодействовать с другими окнами и менять размер, перетаскивая края. В режиме «Окно без рамки» проще переключаться между приложениями. В полноэкранном режиме взаимодействие с другими окнами ограничено, но игра будет работать немного быстрее."
+
+#. Key:	0000000171
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000171"
+msgid "Increases the number of coins gathered from all sources. Coins can be traded for rewards."
+msgstr "Увеличивает количество монет, получаемых из всех источников. Монеты можно обменивать на награды."
+
+#. Key:	0000000172
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000172"
+msgid "Inflict bleeding damage over time to surrounding enemies - Hits with a slight delay"
+msgstr "Накладывает кровотечение, наносящее урон со временем ближайшим врагам — удар с небольшой задержкой"
+
+#. Key:	0000000173
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000173"
+msgid "Iron Breastplate"
+msgstr "Железный нагрудник"
+
+#. Key:	0000000174
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000174"
+msgid "Iron Gauntlets"
+msgstr "Железные рукавицы"
+
+#. Key:	0000000175
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000175"
+msgid "Iron Greathelm"
+msgstr "Железный шлем"
+
+#. Key:	0000000176
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000176"
+msgid "Iron Legguards"
+msgstr "Железные набедренники"
+
+#. Key:	0000000177
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000177"
+msgid "Iron Sabatons"
+msgstr "Железные башмаки"
+
+#. Key:	0000000178
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000178"
+msgid "Knockback Duration"
+msgstr "Длительность отбрасывания"
+
+#. Key:	0000000179
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000179"
+msgid "Knockbacks Caused"
+msgstr "Совершённые отбрасывания"
+
+#. Key:	0000000180
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000180"
+msgid "Last Stand"
+msgstr "Последний бой"
+
+#. Key:	0000000181
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000181"
+msgid "Leather Boots"
+msgstr "Кожаные сапоги"
+
+#. Key:	0000000182
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000182"
+msgid "Leather Gloves"
+msgstr "Кожаные перчатки"
+
+#. Key:	0000000183
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000183"
+msgid "Leather Hood"
+msgstr "Кожаный капюшон"
+
+#. Key:	0000000184
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000184"
+msgid "Leather Pants"
+msgstr "Кожаные штаны"
+
+#. Key:	0000000185
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000185"
+msgid "Leather Tunic"
+msgstr "Кожаная туника"
+
+#. Key:	0000000186
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000186"
+msgid "Leave Game"
+msgstr "Выйти из игры"
+
+#. Key:	0000000187
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000187"
+msgid "Legs"
+msgstr "Ноги"
+
+#. Key:	0000000188
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000188"
+msgid "Level {CurrentRunLevel}"
+msgstr "Уровень {CurrentRunLevel}"
+
+#. Key:	0000000189
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000189"
+msgid "Life"
+msgstr "Здоровье"
+
+#. Key:	0000000190
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000190"
+msgid "Life Potion"
+msgstr "Зелье здоровья"
+
+#. Key:	0000000191
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000191"
+msgid "Lifegiving Gem"
+msgstr "Животворящий самоцвет"
+
+#. Key:	0000000192
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000192"
+msgid "Lightning Strike"
+msgstr "Удар молнии"
+
+#. Key:	0000000193
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000193"
+msgid "Lock"
+msgstr "Заблокировать"
+
+#. Key:	0000000194
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000194"
+msgid "Longsword"
+msgstr "Длинный меч"
+
+#. Key:	0000000195
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000195"
+msgid "Low"
+msgstr "Низкое"
+
+#. Key:	0000000196
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000196"
+msgid "Main Hand"
+msgstr "Основная рука"
+
+#. Key:	0000000197
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000197"
+msgid "Make a Choice"
+msgstr "Сделайте выбор"
+
+#. Key:	0000000198
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000198"
+msgid "Medium"
+msgstr "Среднее"
+
+#. Key:	0000000199
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000199"
+msgid "Metal Bulwark"
+msgstr "Металлический бастион"
+
+#. Key:	0000000200
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000200"
+msgid "More Info"
+msgstr "Подробнее"
+
+#. Key:	0000000201
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000201"
+msgid "Most abilities affect enemies within a defined Area.\r\nFor circular areas, the Radius is used, while cone-shaped areas rely on both Radius and Angle.\r\n\r\nArea does not affect the stat \"Range\" which is used on some Abilities."
+msgstr "Большинство умений поражают врагов в определённой области.\r\nДля круговых областей используется радиус, а для конусных — и радиус, и угол.\r\n\r\nОбласть не влияет на параметр «Дальность», который используется в некоторых умениях."
+
+#. Key:	0000000202
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000202"
+msgid "Mouse & Keyboard"
+msgstr "Мышь и клавиатура"
+
+#. Key:	0000000203
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000203"
+msgid "Move On"
+msgstr "Продолжить"
+
+#. Key:	0000000204
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000204"
+msgid "Move swiftly forward, passing through enemies and avoiding attacks"
+msgstr "Рывок вперёд, проходя сквозь врагов и уклоняясь от атак"
+
+#. Key:	0000000205
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000205"
+msgid "Movement Speed"
+msgstr "Скорость передвижения"
+
+#. Key:	0000000206
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000206"
+msgid "Music"
+msgstr "Музыка"
+
+#. Key:	0000000207
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000207"
+msgid "Music and Sound by Jannik Schmidt"
+msgstr "Музыка и звук: Янник Шмидт"
+
+#. Key:	0000000208
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000208"
+msgid "Mythic"
+msgstr "Мифический"
+
+#. Key:	0000000209
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000209"
+msgid "Neck"
+msgstr "Шея"
+
+#. Key:	0000000210
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000210"
+msgid "Necrotic Breath"
+msgstr "Некротический выдох"
+
+#. Key:	0000000211
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000211"
+msgid "New Run"
+msgstr "Новый забег"
+
+#. Key:	0000000212
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000212"
+msgid "Normal"
+msgstr "Нормальное"
+
+#. Key:	0000000213
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000213"
+msgid "Off"
+msgstr "Выкл."
+
+#. Key:	0000000214
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000214"
+msgid "Off Hand"
+msgstr "Вторая рука"
+
+#. Key:	0000000215
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000215"
+msgid "On"
+msgstr "Вкл."
+
+#. Key:	0000000216
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000216"
+msgid "Open Wounds"
+msgstr "Открытые раны"
+
+#. Key:	0000000217
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000217"
+msgid "Open/ Close System Menu"
+msgstr "Открыть/закрыть системное меню"
+
+#. Key:	0000000218
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000218"
+msgid "Overall"
+msgstr "Общее"
+
+#. Key:	0000000219
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000219"
+msgid "Passive: Bombs"
+msgstr "Пассивное: бомбы"
+
+#. Key:	0000000220
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000220"
+msgid "Passive: Chain Lightning"
+msgstr "Пассивное: цепная молния"
+
+#. Key:	0000000221
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000221"
+msgid "Passive: Lightning Strike"
+msgstr "Пассивное: удар молнии"
+
+#. Key:	0000000222
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000222"
+msgid "Passive: Spikes"
+msgstr "Пассивное: шипы"
+
+#. Key:	0000000223
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000223"
+msgid "Passive: Turrets"
+msgstr "Пассивное: турели"
+
+#. Key:	0000000224
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000224"
+msgid "Plague Warden Upgrade"
+msgstr "Усиление Стража чумы"
+
+#. Key:	0000000225
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000225"
+msgid "Poor Man's Shield"
+msgstr "Щит бедняка"
+
+#. Key:	0000000226
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000226"
+msgid "Programming and Game Design by Niklas Behrens"
+msgstr "Программирование и геймдизайн: Никлас Беренс"
+
+#. Key:	0000000227
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000227"
+msgid "Projectile Speed"
+msgstr "Скорость снарядов"
+
+#. Key:	0000000228
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000228"
+msgid "Quality Preset allows you to adjust multiple video options at once. Try a few options to see what fits your preference and device's performance."
+msgstr "Набор настроек качества позволяет изменять сразу несколько параметров графики. Попробуйте разные варианты, чтобы подобрать оптимальное сочетание для ваших предпочтений и мощности устройства."
+
+#. Key:	0000000229
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000229"
+msgid "Quality Presets"
+msgstr "Профили качества"
+
+#. Key:	0000000230
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000230"
+msgid "Quick Strike Ring"
+msgstr "Кольцо стремительного удара"
+
+#. Key:	0000000231
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000231"
+msgid "Radius"
+msgstr "Радиус"
+
+#. Key:	0000000232
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000232"
+msgid "Range"
+msgstr "Дальность"
+
+#. Key:	0000000233
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000233"
+msgid "Rat Upgrade"
+msgstr "Усиление крыс"
+
+#. Key:	0000000234
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000234"
+msgid "Reduces damage taken from all sources.\r\n\r\nMaxes out at 80% - anything extra won’t count!"
+msgstr "Снижает получаемый урон от всех источников.\r\n\r\nМаксимум 80 % — всё, что выше, не учитывается!"
+
+#. Key:	0000000235
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000235"
+msgid "Replaces"
+msgstr "Заменяет"
+
+#. Key:	0000000236
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000236"
+msgid "Reroll"
+msgstr "Перебросить"
+
+#. Key:	0000000237
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000237"
+msgid "Resolution"
+msgstr "Разрешение"
+
+#. Key:	0000000238
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000238"
+msgid "Resume"
+msgstr "Продолжить"
+
+#. Key:	0000000239
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000239"
+msgid "Run Finished"
+msgstr "Забег завершён"
+
+#. Key:	0000000240
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000240"
+msgid "Run Summary"
+msgstr "Итоги забега"
+
+#. Key:	0000000241
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000241"
+msgid "Run Upgrade"
+msgstr "Усиление забега"
+
+#. Key:	0000000242
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000242"
+msgid "Rusty Sword"
+msgstr "Ржавый меч"
+
+#. Key:	0000000243
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000243"
+msgid "Scholar's Pendant"
+msgstr "Подвеска учёного"
+
+#. Key:	0000000244
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000244"
+msgid "Select"
+msgstr "Выбрать"
+
+#. Key:	0000000245
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000245"
+msgid "Settings"
+msgstr "Настройки"
+
+#. Key:	0000000246
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000246"
+msgid "Shield Bash"
+msgstr "Удар щитом"
+
+#. Key:	0000000247
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000247"
+msgid "Shield Slam"
+msgstr "Таран щитом"
+
+#. Key:	0000000248
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000248"
+msgid "Shield Throw"
+msgstr "Бросок щита"
+
+#. Key:	0000000249
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000249"
+msgid "Shield Wall"
+msgstr "Стена щитов"
+
+#. Key:	0000000250
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000250"
+msgid "Shortsword"
+msgstr "Короткий меч"
+
+#. Key:	0000000251
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000251"
+msgid "Slash"
+msgstr "Рассечение"
+
+#. Key:	0000000252
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000252"
+msgid "Soldier Upgrade"
+msgstr "Усиление солдат"
+
+#. Key:	0000000253
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000253"
+msgid "Soldiers can now throw their spears at you"
+msgstr "Солдаты теперь могут бросать в вас копья"
+
+#. Key:	0000000254
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000254"
+msgid "Sound Effects"
+msgstr "Звуковые эффекты"
+
+#. Key:	0000000255
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000255"
+msgid "Spawn three Turrets at the same time"
+msgstr "Призывает три турели одновременно"
+
+#. Key:	0000000256
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000256"
+msgid "Spawn two Turrets at the same time"
+msgstr "Призывает две турели одновременно"
+
+#. Key:	0000000257
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000257"
+msgid "Spikes"
+msgstr "Шипы"
+
+#. Key:	0000000258
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000258"
+msgid "Spikes keep flying after hitting an enemy"
+msgstr "Шипы продолжают лететь после попадания во врага"
+
+#. Key:	0000000259
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000259"
+msgid "Spikes stun enemies for 3 seconds"
+msgstr "Шипы оглушают врагов на 3 секунды"
+
+#. Key:	0000000260
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000260"
+msgid "Spin rapidly, damaging enemies around you"
+msgstr "Быстро вращайтесь, нанося урон врагам вокруг"
+
+#. Key:	0000000261
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000261"
+msgid "Spirit Bomb"
+msgstr "Бомба душ"
+
+#. Key:	0000000262
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000262"
+msgid "Stat Boost"
+msgstr "Повышение характеристик"
+
+#. Key:	0000000263
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000263"
+msgid "Still does the job... kind of"
+msgstr "Всё ещё справляется… кое-как"
+
+#. Key:	0000000264
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000264"
+msgid "Stormcaller"
+msgstr "Призыватель бури"
+
+#. Key:	0000000265
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000265"
+msgid "Stormcaller Boots"
+msgstr "Сапоги Призывателя бури"
+
+#. Key:	0000000266
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000266"
+msgid "Stormcaller Chest"
+msgstr "Нагрудник Призывателя бури"
+
+#. Key:	0000000267
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000267"
+msgid "Stormcaller Fury"
+msgstr "Ярость Призывателя бури"
+
+#. Key:	0000000268
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000268"
+msgid "Stormcaller Gauntlets"
+msgstr "Рукавицы Призывателя бури"
+
+#. Key:	0000000269
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000269"
+msgid "Stormcaller Helmet"
+msgstr "Шлем Призывателя бури"
+
+#. Key:	0000000270
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000270"
+msgid "Stormcaller Pants"
+msgstr "Поножи Призывателя бури"
+
+#. Key:	0000000271
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000271"
+msgid "Stormweaver"
+msgstr "Ткач бури"
+
+#. Key:	0000000272
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000272"
+msgid "Stormweaver Aegis"
+msgstr "Эгида Ткача бури"
+
+#. Key:	0000000273
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000273"
+msgid "Stormweaver Band"
+msgstr "Кольцо Ткача бури"
+
+#. Key:	0000000274
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000274"
+msgid "Stormweaver Crown"
+msgstr "Корона Ткача бури"
+
+#. Key:	0000000275
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000275"
+msgid "Stormweaver Edge"
+msgstr "Клинок Ткача бури"
+
+#. Key:	0000000276
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000276"
+msgid "Stormweaver Pendant"
+msgstr "Подвеска Ткача бури"
+
+#. Key:	0000000277
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000277"
+msgid "Stormweaver Spark"
+msgstr "Искра Ткача бури"
+
+#. Key:	0000000278
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000278"
+msgid "Strike in a wide arc, damaging enemies in front of you"
+msgstr "Удар по широкой дуге, наносящий урон врагам перед вами"
+
+#. Key:	0000000279
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000279"
+msgid "Stun Duration"
+msgstr "Длительность оглушения"
+
+#. Key:	0000000280
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000280"
+msgid "Stun and damage enemies on Dash impact"
+msgstr "Оглушает врагов и наносит им урон при столкновении во время Рывка"
+
+#. Key:	0000000281
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000281"
+msgid "Stuns Caused"
+msgstr "Совершённые оглушения"
+
+#. Key:	0000000282
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000282"
+msgid "Take Nothing"
+msgstr "Ничего не брать"
+
+#. Key:	0000000283
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000283"
+msgid "Talisman of Power"
+msgstr "Талисман силы"
+
+#. Key:	0000000284
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000284"
+msgid "Thank you for playing our first game!\r\nOur adventurer will now rest for eternity."
+msgstr "Спасибо, что сыграли в нашу первую игру!\r\nНаш искатель приключений теперь обретёт вечный покой."
+
+#. Key:	0000000285
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000285"
+msgid "Thank you for playing our first game!\r\nOur adventurer’s journey is over… for now.\r\nYet one last trial awaits the brave:\r\nWill you rise to beat a run on Final Stand difficulty?"
+msgstr "Спасибо, что сыграли в нашу первую игру!\r\nПутешествие нашего героя окончено… пока что.\r\nНо храбрых ждёт последнее испытание:\r\nСможете ли вы пройти забег на сложности «Final Stand»?"
+
+#. Key:	0000000286
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000286"
+msgid "The first game by Ouga Ouga"
+msgstr "Первая игра от Ouga Ouga"
+
+#. Key:	0000000287
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000287"
+msgid "The higher the value, the faster you move. Simple as that."
+msgstr "Чем выше значение, тем быстрее вы движетесь. Всё просто."
+
+#. Key:	0000000288
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000288"
+msgid "This feature only works if \"Window Mode\" is set to \"Fullscreen\"."
+msgstr "Эта функция работает только, если параметр \"Window Mode\" установлен в \"Fullscreen\"."
+
+#. Key:	0000000289
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000289"
+msgid "This only affects your in-game frames. While in the menu, the frame rate is capped at 60."
+msgstr "Это влияет только на частоту кадров во время забега. В меню частота кадров ограничена значением 60."
+
+#. Key:	0000000290
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000290"
+msgid "Throw your shield to damage and stun enemies"
+msgstr "Бросьте щит, нанося урон и оглушая врагов"
+
+#. Key:	0000000291
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000291"
+msgid "Time Rift Amulet"
+msgstr "Амулет Разлома времени"
+
+#. Key:	0000000292
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000292"
+msgid "Tinker"
+msgstr "Механик"
+
+#. Key:	0000000293
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000293"
+msgid "Tinker Blueprint"
+msgstr "Чертёж Механика"
+
+#. Key:	0000000294
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000294"
+msgid "Tinker Disk"
+msgstr "Диск Механика"
+
+#. Key:	0000000295
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000295"
+msgid "Tinker Gloves"
+msgstr "Перчатки Механика"
+
+#. Key:	0000000296
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000296"
+msgid "Tinker Goggles"
+msgstr "Очки Механика"
+
+#. Key:	0000000297
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000297"
+msgid "Tinker Mallet"
+msgstr "Киянка Механика"
+
+#. Key:	0000000298
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000298"
+msgid "Tinker Sealring"
+msgstr "Перстень-печатка Механика"
+
+#. Key:	0000000299
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000299"
+msgid "Title Screen"
+msgstr "Стартовый экран"
+
+#. Key:	0000000300
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000300"
+msgid "Touch of Death"
+msgstr "Касание смерти"
+
+#. Key:	0000000301
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000301"
+msgid "Tower Shield"
+msgstr "Башенный щит"
+
+#. Key:	0000000302
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000302"
+msgid "Trinket"
+msgstr "Аксессуар"
+
+#. Key:	0000000303
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000303"
+msgid "Turrets"
+msgstr "Турели"
+
+#. Key:	0000000304
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000304"
+msgid "Unlearn"
+msgstr "Забыть"
+
+#. Key:	0000000305
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000305"
+msgid "Unleash a surge of dark energy, dealing damage and knocking back every enemy in its path"
+msgstr "Высвободите всплеск тёмной энергии, нанося урон и отбрасывая всех врагов на своём пути"
+
+#. Key:	0000000306
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000306"
+msgid "Unleash an explosion, damaging and knocking back nearby enemies"
+msgstr "Высвободите взрыв, нанося урон и отбрасывая ближайших врагов"
+
+#. Key:	0000000307
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000307"
+msgid "Unlimited"
+msgstr "Без ограничений"
+
+#. Key:	0000000308
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000308"
+msgid "Unlock"
+msgstr "Разблокировать"
+
+#. Key:	0000000309
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000309"
+msgid "Upgrade"
+msgstr "Улучшение"
+
+#. Key:	0000000310
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000310"
+msgid "Upon death, Plague Wardens release a Plague Cloud"
+msgstr "При смерти Стражи чумы выпускают чумное облако"
+
+#. Key:	0000000311
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000311"
+msgid "Vertical Sync"
+msgstr "Вертикальная синхронизация"
+
+#. Key:	0000000312
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000312"
+msgid "Video"
+msgstr "Видео"
+
+#. Key:	0000000313
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000313"
+msgid "Visual Art and Game Design by Andreas Neudecker"
+msgstr "Визуальное оформление и геймдизайн: Андреас Нойдекер"
+
+#. Key:	0000000314
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000314"
+msgid "When the \"Window Mode\" is set to \"Windowed Fullscreen, the resolution must match the native desktop resolution.\" "
+msgstr "Если параметр \"Window Mode\" установлен в \"Windowed Fullscreen\", разрешение должно совпадать с родным разрешением рабочего стола. "
+
+#. Key:	0000000315
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000315"
+msgid "Whenever you take damage, you might dodge it entirely! This applies to all damage sources.\r\n\r\nMaxes out at 80% - anything extra won’t count!"
+msgstr "Всякий раз, когда вы получаете урон, вы можете полностью увернуться! Это относится ко всем источникам урона.\r\n\r\nМаксимум 80 % — всё сверх этого не учитывается!"
+
+#. Key:	0000000316
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000316"
+msgid "Whirlwind"
+msgstr "Вихрь"
+
+#. Key:	0000000317
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000317"
+msgid "Width"
+msgstr "Ширина"
+
+#. Key:	0000000318
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000318"
+msgid "Window Mode"
+msgstr "Режим окна"
+
+#. Key:	0000000319
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000319"
+msgid "Windowed"
+msgstr "Оконный"
+
+#. Key:	0000000320
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000320"
+msgid "Windowed Fullscreen"
+msgstr "Оконный во весь экран"
+
+#. Key:	0000000321
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000321"
+msgid "Windrunner"
+msgstr "Ветроход"
+
+#. Key:	0000000322
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000322"
+msgid "Windrunner Boots"
+msgstr "Сапоги Ветрохода"
+
+#. Key:	0000000323
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000323"
+msgid "Windrunner Gloves"
+msgstr "Перчатки Ветрохода"
+
+#. Key:	0000000324
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000324"
+msgid "Windrunner Hood"
+msgstr "Капюшон Ветрохода"
+
+#. Key:	0000000325
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000325"
+msgid "Windrunner Pants"
+msgstr "Поножи Ветрохода"
+
+#. Key:	0000000326
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000326"
+msgid "Windrunner Tunic"
+msgstr "Туника Ветрохода"
+
+#. Key:	0000000327
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000327"
+msgid "Wooden Round Shield"
+msgstr "Деревянный круглый щит"
+
+#. Key:	0000000328
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000328"
+msgid "YOU DIED\r\n...good thing you already were dead"
+msgstr "ВЫ ПОГИБЛИ\r\n...хорошо ещё, что вы и так были мертвы"
+
+#. Key:	0000000329
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000329"
+msgid "to cycle slots"
+msgstr "для переключения слотов"
+
+#. Key:	0000000330
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000330"
+msgid "to start swapping"
+msgstr "для начала обмена слотов"
+
+#. Key:	0000000331
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000331"
+msgid "{AbilityMultiplier} Damage Multiplier ({Damage})\r\n{Cooldown}s Cooldown\r\n{Duration}s Debuff Duration\r\n{DamageTick}s Damage Tick\r\n{Radius} Radius"
+msgstr "{AbilityMultiplier} множитель урона ({Damage})\r\nПерезарядка: {Cooldown}s\r\nДлительность ослабления: {Duration}s\r\nИнтервал урона: {DamageTick}s\r\nРадиус: {Radius}"
+
+#. Key:	0000000332
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000332"
+msgid "{AbilityMultiplier} Damage Multiplier ({Damage})\r\n{Cooldown}s Cooldown\r\n{Duration}s Duration\r\n{DamageTick}s Damage Tick\r\n{Radius} Radius"
+msgstr "{AbilityMultiplier} множитель урона ({Damage})\r\nПерезарядка: {Cooldown}s\r\nДлительность: {Duration}s\r\nИнтервал урона: {DamageTick}s\r\nРадиус: {Radius}"
+
+#. Key:	0000000333
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000333"
+msgid "{AbilityMultiplier} Damage Multiplier ({Damage})\r\n{Cooldown}s Cooldown\r\n{Duration}s Duration\r\n{DamageTick}s Damage Tick\r\n{Radius} Radius"
+msgstr "{AbilityMultiplier} множитель урона ({Damage})\r\nПерезарядка: {Cooldown}s\r\nДлительность: {Duration}s\r\nИнтервал урона: {DamageTick}s\r\nРадиус: {Radius}"
+
+#. Key:	0000000334
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000334"
+msgid "{AbilityMultiplier} Damage Multiplier ({Damage})\r\n{Cooldown}s Cooldown\r\n{KnockbackDuration}s Knockback Duration\r\n{Radius} Radius"
+msgstr "{AbilityMultiplier} множитель урона ({Damage})\r\nПерезарядка: {Cooldown}s\r\nДлительность отбрасывания: {KnockbackDuration}s\r\nРадиус: {Radius}"
+
+#. Key:	0000000335
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000335"
+msgid "{AbilityMultiplier} Damage Multiplier ({Damage})\r\n{Cooldown}s Cooldown\r\n{KnockbackDuration}s Knockback Duration\r\n{Radius} Radius\r\n{Angle} Angle"
+msgstr "{AbilityMultiplier} множитель урона ({Damage})\r\nПерезарядка: {Cooldown}s\r\nДлительность отбрасывания: {KnockbackDuration}s\r\nРадиус: {Radius}\r\nУгол: {Angle}"
+
+#. Key:	0000000336
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000336"
+msgid "{AbilityMultiplier} Damage Multiplier ({Damage})\r\n{Cooldown}s Cooldown\r\n{KnockbackDuration}s Knockback Duration\r\n{Radius} Radius\r\n{Angle} Angle"
+msgstr "{AbilityMultiplier} множитель урона ({Damage})\r\nПерезарядка: {Cooldown}s\r\nДлительность отбрасывания: {KnockbackDuration}s\r\nРадиус: {Radius}\r\nУгол: {Angle}"
+
+#. Key:	0000000337
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000337"
+msgid "{AbilityMultiplier} Damage Multiplier ({Damage})\r\n{Cooldown}s Cooldown\r\n{Radius} Radius\r\n{Angle} Angle\r\n{CritChance}% Crit Chance"
+msgstr "{AbilityMultiplier} множитель урона ({Damage})\r\nПерезарядка: {Cooldown}s\r\nРадиус: {Radius}\r\nУгол: {Angle}\r\n{CritChance}% шанс крит. удара"
+
+#. Key:	0000000338
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000338"
+msgid "{AbilityMultiplier} Damage Multiplier ({Damage})\r\n{Cooldown}s Cooldown\r\n{Range} Range\r\n{Radius} Radius\r\n{StunDuration} Stun Duration"
+msgstr "{AbilityMultiplier} множитель урона ({Damage})\r\nПерезарядка: {Cooldown}s\r\nДальность: {Range}\r\nРадиус: {Radius}\r\nДлительность оглушения: {StunDuration}"
+
+#. Key:	0000000339
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000339"
+msgid "{AbilityMultiplier} Damage Multiplier ({Damage})\r\n{Cooldown}s Cooldown\r\n{StunDuration}s Stun Duration\r\n{Radius} Radius\r\n{Angle} Angle"
+msgstr "{AbilityMultiplier} множитель урона ({Damage})\r\nПерезарядка: {Cooldown}s\r\nДлительность оглушения: {StunDuration}s\r\nРадиус: {Radius}\r\nУгол: {Angle}"
+
+#. Key:	0000000340
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000340"
+msgid "{AbsorbtionMultiplier} Absorption Multiplier ({Damage Absorbed})\r\n{Cooldown}s Cooldown\r\n\r\nDamage Absorbed = Life × Absorption Multiplier"
+msgstr "{AbsorbtionMultiplier} множитель поглощения ({Damage Absorbed})\r\nПерезарядка: {Cooldown}s\r\n\r\nПоглощённый урон = Здоровье × множитель поглощения"
+
+#. Key:	0000000341
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000341"
+msgid "{Amount} Potions <img id=\"GreenArrowUp\"/>\r\nHeals {HealPercent}% Life <img id=\"GreenArrowUp\"/>"
+msgstr "{Amount} зелий <img id=\"GreenArrowUp\"/>\r\nВосстанавливают {HealPercent}% здоровья <img id=\"GreenArrowUp\"/>"
+
+#. Key:	0000000342
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000342"
+msgid "{Cooldown}s Cooldown\r\n{Range} Range\r\n{Charges} Charges"
+msgstr "Перезарядка: {Cooldown}s\r\nДальность: {Range}\r\nЗарядов: {Charges}"
+
+#. Key:	0000000343
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000343"
+msgid "{MaxPotions} Potions\r\nHeals {HealPercent}% Life"
+msgstr "{MaxPotions} зелий\r\nВосстанавливают {HealPercent}% здоровья"
+
+#. Key:	0000000344
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000344"
+msgid "{Stats}\r\n\r\nDamage Absorbed = Life * Absorption Multiplier"
+msgstr "{Stats}\r\n\r\nПоглощённый урон = Здоровье * множитель поглощения"
+
+#. Key:	0000000345
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000345"
+msgid "{Value}s {StatName}"
+msgstr "{Value}s {StatName}"
+
+#. Key:	0000000346
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000346"
+msgid "Team Ouga Ouga - From Hamburg, Germany"
+msgstr "Команда Ouga Ouga — Гамбург, Германия"
+
+#. Key:	0000000347
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000347"
+msgid "Programming and Game Design"
+msgstr "Программирование и геймдизайн"
+
+#. Key:	0000000348
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000348"
+msgid "Visual Art and Game Design"
+msgstr "Визуальное оформление и геймдизайн"
+
+#. Key:	0000000349
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000349"
+msgid "Music and Sound"
+msgstr "Музыка и звук"
+
+#. Key:	0000000350
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000350"
+msgid "Externals"
+msgstr "Привлечённые специалисты"
+
+#. Key:	0000000351
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000351"
+msgid "Programming Advisor"
+msgstr "Консультант по программированию"
+
+#. Key:	0000000352
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000352"
+msgid "Voice Actor"
+msgstr "Актёр озвучения"
+
+#. Key:	0000000353
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000353"
+msgid "Playtesters"
+msgstr "Плейтестеры"
+
+#. Key:	0000000354
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000354"
+msgid "Additional Visual Art"
+msgstr "Дополнительное визуальное оформление"
+
+#. Key:	0000000355
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000355"
+msgid "Ability and Utility Icons"
+msgstr "Иконки умений и утилит"
+
+#. Key:	0000000356
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000356"
+msgid "Gamepad Glyphs"
+msgstr "Значки геймпада"
+
+#. Key:	0000000357
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000357"
+msgid "General"
+msgstr "Общие"
+
+#. Key:	0000000358
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000358"
+msgid "Language"
+msgstr "Язык"
+
+#. Key:	0000000359
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000359"
+msgid "Change the language of the game."
+msgstr "Изменить язык игры."
+
+#. Key:	0000000360
+#. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+#: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
+msgctxt "ST_TextsToLocalize,0000000360"
+msgid "Translators"
+msgstr "Переводчики"
